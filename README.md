@@ -109,3 +109,6 @@ Zmaž súbor. Urob to až vtedy, keď ZiziCache opraví chyby 1 a 2 z bodu 4.
 6. **Docs (0.8.5) nesedia s 1.0.x.**
    - `zizi_cache_disabled_integrations` čaká FQCN.
    - `zizi_cache_preload_urls` nefiltruje preload po purge.
+
+## Licencia
+GPL-2.0-or-later, plné znenie v [LICENSE](LICENSE).

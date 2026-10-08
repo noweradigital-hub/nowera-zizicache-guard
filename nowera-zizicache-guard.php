@@ -4,6 +4,8 @@
  * Description:  Zastaví self-crawl ZiziCache, ktorý sa nedá vypnúť v nastaveniach: preload po purge a LiteSpeed status checker („Pages Not Cached“).
  * Version:      1.0.0
  * Author:       Nowera
+ * License:      GPL-2.0-or-later
+ * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
  * Requires PHP: 7.4
  *
  * Install as a must-use plugin: wp-content/mu-plugins/nowera-zizicache-guard.php
